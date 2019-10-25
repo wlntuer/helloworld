@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Wife",
+            "request": "launch",
+            "mainClass": "Wife"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VirtualDemo",
+            "request": "launch",
+            "mainClass": "VirtualDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animaltest",
+            "request": "launch",
+            "mainClass": "Animaltest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - helloworld",
             "request": "launch",
             "mainClass": "helloworld"

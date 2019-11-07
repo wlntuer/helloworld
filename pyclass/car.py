@@ -52,3 +52,6 @@ class ElectricCar(Car):     # 必须在括号内指定父类的名称
 
 my_tesla = ElectricCar("tesla", "model s", 2016)
 print(my_tesla.get_descriptive_name())
+
+
+# from car import Car    # 从car.py文件中导入Car类

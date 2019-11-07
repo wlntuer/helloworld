@@ -11,7 +11,7 @@ class mythread(threading.Thread):
 
     def run(self):
         time.sleep(2)
-        print(self.arg)
+        print("这是第%d个线程。" % self.arg)
 
 
 for i in range(5):

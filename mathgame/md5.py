@@ -15,4 +15,5 @@ def get_file_md5(file_path):
 
 
 md5 = get_file_md5('C://Users/wlntu/Desktop/数据整合问题讨论20191209.md')
+
 print(md5)

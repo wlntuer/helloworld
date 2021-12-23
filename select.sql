@@ -1,2 +1,3 @@
-SELECT EntryDate, division, ID, Name FROM Staff 
+use mydata
+SELECT EntryDate, division, ID FROM Staff 
 --DELETE  FROM Staff  where Phone is null
